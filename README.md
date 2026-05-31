@@ -3,7 +3,7 @@
 ## Description
 
 
-A complete list of the triliteral, quadriliteral, and quinquiliteral roots in _Lisān al-ʿArab_, labeled in Arabic and transliteration, with each consonant analyzed according to its place and manner of articulation. This data is based on the digitised edition available at https://alwaraq.net/book-view/89. The phonetic description of Arabic consonants in terms of place and manner of articulation follows Janet C.E. Watson, _The Phonology and Morphology of Arabic_ (Oxford: Oxford University Press), p. 13.
+A complete list of the triliteral, quadriliteral, and quinquiliteral roots in _Lisān al-ʿArab_, labelled in Arabic and transliteration, with each consonant analysed according to its place and manner of articulation. This data is based on the digitised edition available at https://alwaraq.net/book-view/89. The phonetic description of Arabic consonants in terms of place and manner of articulation follows Janet C.E. Watson, _The Phonology and Morphology of Arabic_ (Oxford: Oxford University Press), p. 13.
 
 قائمة كاملة بالجذور الثلاثية والرباعية والخماسية في لسان العرب، موسومة بالعربية وبالنقل الحرفي، مع تحليل كل صامت بحسب مخرجه وصفته. تستند هذه البيانات إلى الطبعة الرقمية المتاحة على موقع الورّاق: https://alwaraq.net/book-view/89.
 ويتبع وصف الصوامت العربية من حيث المخارج والصفات 

@@ -54,7 +54,7 @@ You can cite this data as
 
 	Elmaz, Orhan. 2026. Lisan345. http://github.com/git85hub/lisan345.
 
-or as part of my published book:
+or as part of the published book:
 
-  	Elmaz, Orhan. Studien zu den koranischen Hapaxlegomena unikaler Wurzeln (Wiesbaden: Harrassowitz), 303-317.
+  	Elmaz, Orhan. Studien zu den koranischen Hapaxlegomena unikaler Wurzeln (Wiesbaden: Harrassowitz, 2011), 303-317.
 

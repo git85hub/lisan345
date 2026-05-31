@@ -26,7 +26,7 @@ Quinquiliteral  (خماسي) roots: 183
 
 * The folder "data" contains a csv file for each set of roots from the _Lisān al-ʿArab_
 
-## Data Structure
+## Data Structure / بنية البيانات
 حتوي كل ملف CSV على رؤوس أعمدة لكل مجموعة من الجذور، ويورد الجذر بالعربية (LAB_ar) وبالنقل الحرفي (LAB_tr). ويُحلَّل كل حرف من حروف الجذر بحسب ترتيبه في الأبجدية العربية (C) ومخرجه (P) وصفته/طريقة نطقه (M).
 
 A csv file with headers for each set of roots, listing the root in Arabic (LAB_ar) and in transliteration (LAB_tr). Each literal is further analysed by its order in the Arabic alphabet (C) and its place (P) and manner (M) of articulation.

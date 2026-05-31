@@ -1,30 +1,63 @@
 # lisan345
 
-## Description
-
-
-A complete list of the triliteral, quadriliteral, and quinquiliteral roots in _Lisān al-ʿArab_, labelled in Arabic and transliteration, with each consonant analysed according to its place and manner of articulation. This data is based on the digitised edition available at https://alwaraq.net/book-view/89. The phonetic description of Arabic consonants in terms of place and manner of articulation follows Janet C.E. Watson, _The Phonology and Morphology of Arabic_ (Oxford: Oxford University Press), p. 13.
-
-قائمة كاملة بالجذور الثلاثية والرباعية والخماسية في لسان العرب، موسومة بالعربية وبالنقل الحرفي، مع تحليل كل صامت بحسب مخرجه وصفته. تستند هذه البيانات إلى الطبعة الرقمية المتاحة على موقع الورّاق: https://alwaraq.net/book-view/89.
+## Description / وصف
+هذه قائمة كاملة بالجذور الثلاثية والرباعية والخماسية في لسان العرب، موسومة بالعربية وبالنقل الحرفي، مع تحليل كل صامت بحسب مخرجه وصفته. تستند هذه البيانات إلى الطبعة الرقمية المتاحة على موقع الورّاق: https://alwaraq.net/book-view/89.
 ويتبع وصف الصوامت العربية من حيث المخارج والصفات 
 
 Janet C.E. Watson, _The Phonology and Morphology of Arabic_ (Oxford: Oxford University Press), p. 13.
 
-## Statistics 
+This is a complete list of the triliteral, quadriliteral, and quinquiliteral roots in _Lisān al-ʿArab_, labelled in Arabic and transliteration, with each consonant analysed according to its place and manner of articulation. This data is based on the digitised edition available at https://alwaraq.net/book-view/89. The phonetic description of Arabic consonants in terms of place and manner of articulation follows Janet C.E. Watson, _The Phonology and Morphology of Arabic_ (Oxford: Oxford University Press), p. 13.
+
+## Statistics / الإحصائيات
+عدد الجذور الثلاثية: 6529
+
+عدد الجذور الرباعية: 2551
+
+عدد الجذور الخماسية: 183
+
 Triliteral (ثلاثي) roots: 6529
 
 Quadriliteral (رباعي) roots: 2551
 
 Quinquiliteral  (خماسي) roots: 183
 
-## File structure
-* data/ : contains a csv file for each set of roots from the _Lisān al-ʿArab_
+## File structure / بنية الملفات
+يحتوي مجلد data على ملف CSV لكل مجموعة من الجذور المستخرجة من لسان العرب.
+
+* The folder "data" contains a csv file for each set of roots from the _Lisān al-ʿArab_
 
 ## Data Structure
+حتوي كل ملف CSV على رؤوس أعمدة لكل مجموعة من الجذور، ويورد الجذر بالعربية (LAB_ar) وبالنقل الحرفي (LAB_tr). ويُحلَّل كل حرف من حروف الجذر بحسب ترتيبه في الأبجدية العربية (C) ومخرجه (P) وصفته/طريقة نطقه (M).
+
 A csv file with headers for each set of roots, listing the root in Arabic (LAB_ar) and in transliteration (LAB_tr). Each literal is further analysed by its order in the Arabic alphabet (C) and its place (P) and manner (M) of articulation.
 
 	LAB_ar	LAB_tr	LAB1	LAB2	LAB3	LAB4	LAB5	C1	C2	C3	C4	C5	P1	P2	P3	P4	P5	M1	M2	M3	M4	M5
 	عندلب	ʿNDLB	ʿ	N	D	L	B	18	25	8	23	2	8	4	4	4	1	3	5	1	6	1
+
+الصوامت بحسب مخارجها هي كما يلي:
+
+1:= شفوي = {ب، م}، 
+2:= شفوي أسناني = {ف}، 
+3:= بين أسناني = {ث، ذ، ظ}، 
+4:= أسناني لثوي = {ت، د، ط، س، ز، ص، ن، ل، ض، ر}، 
+5:= غاري = {ج، ش، ي}، 
+6:= طبقي = {ك، و}، 
+7:= لهوي = {ق، خ، غ}، 
+8:= حلقي = {ح، ع}، 
+9:= حنجري = {أ، ه}
+
+الصوامت بحسب صفاتها النطقية هي كما يلي:
+
+1:= انفجاري = {ب، ت، د، ج، ك، ق، أ}، 
+2:= انفجاري مفخّم = {ط}، 
+3:= احتكاكي = {ف، ث، ذ، س، ز، ش، خ، غ، ح، ع، ه}، 
+4:= احتكاكي مفخّم = {ظ، ص}، 
+5:= أنفي = {م، ن}، 
+6:= جانبي = {ل}، 
+7:= جانبي مفخّم = {ض}، 
+8:= نقري = {ر}، 
+9:= منزلق = {ي، و}
+
 
 The consonants by place of articulation are as follows:
 1:= Labial = {B, M}, 
@@ -48,11 +81,14 @@ The consonants by manner of articulation are as follows:
 8:= Tap = {R}, 
 9:= Glide = {Y, W}
 
-## Citation
+## Citation / الاستشهاد
+يمكن الاستشهاد بهذه البيانات على النحو الآتي:
 
 You can cite this data as
 
 	Elmaz, Orhan. 2026. Lisan345. http://github.com/git85hub/lisan345.
+
+أو بوصفها جزءًا من الكتاب المنشور:
 
 or as part of the published book:
 

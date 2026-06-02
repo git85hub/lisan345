@@ -1,5 +1,14 @@
 # lisan345
 
+ مجموعةُ بياناتٍ مفتوحة للجذور العربيّة الثلاثيّة والرباعيّة والخماسيّة المستخرجة من لسان العرب. وتوفّر صيغ الجذور بالعربيّة وبالنقل الحرفي، مع وسم موضع كلّ صامت من صوامت الجذر ومخرجه وصفته.
+
+وتدعم هذه المجموعة البحث في فونوتكتيك الجذور العربيّة، والمعجميّة التاريخيّة، وتكييف الألفاظ الدخيلة، والتعريب، واللسانيات العربيّة الحاسوبيّة.
+
+**lisan345** is an open dataset of triliteral, quadriliteral, and quinquiliteral Arabic roots extracted from *Lisān al-ʿArab*. It provides root forms in Arabic and transliteration, together with positional consonant labels and place/manner coding for each root consonant.
+
+The dataset supports research in Arabic root phonotactics, historical lexicography, loanword adaptation, Arabicisation, and computational Arabic linguistics.
+
+
 ## Description / وصف
 هذه قائمة كاملة بالجذور الثلاثية والرباعية والخماسية في لسان العرب، موسومة بالعربية وبالنقل الحرفي، مع تحليل كل صامت بحسب مخرجه وصفته. تستند هذه البيانات إلى الطبعة الرقمية المتاحة على موقع الورّاق: https://alwaraq.net/book-view/89.
 ويتبع وصف الصوامت العربية من حيث المخارج والصفات 
